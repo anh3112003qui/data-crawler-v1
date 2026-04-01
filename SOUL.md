@@ -1,0 +1,1 @@
+/home/quile/.paperclip/instances/default/companies/b2c9f9b6-1d5d-4106-a53c-d3390d4a532a/agents/9dacd9ea-f35a-4281-aea1-dbeecab18d66/instructions/SOUL.md

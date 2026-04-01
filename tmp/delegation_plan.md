@@ -1,0 +1,12 @@
+# Delegation Plan
+- CEO task: Triage backlog in data-crawler-v1 and delegate subtasks to Dev Engineer, Code Reviewer, QA Tester, and HR.
+- Define success criteria and deadlines for each subtask.
+- Record memory of decisions in para-memory-files.
+- Follow-up tasks: create progress-tracking subtasks for ongoing status updates from each assignee (Dev Engineer, Code Reviewer, QA Tester, HR).
+- Subtasks created under CEO-0001:
+- Audit backlog surface: Dev Engineer (high)
+- Draft backlog rubric: Dev Engineer (high)
+- Define code review plan: Code Reviewer (high)
+- Define QA testing strategy: QA Tester (high)
+- Hiring trigger if capacity lacking: HR (medium)
+- Progress-tracking: Dev Engineer (medium)
